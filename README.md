@@ -1,4 +1,4 @@
-# Cplusplus-Program
+# CS-210-Operating-Platforms
 
 1. Summarizing the project:
 In this project we were tasked with creating two clocks that show both a standard 12-hour time with AM and PM and a 24-hour clock. The clocks were also given inputs so the user can change the time and it should accurately reflect on both clocks.
